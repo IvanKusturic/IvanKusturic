@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanKusturic
-- 👀 I’m interested in computers in general - programming, operating systems, security, etc.
-- 🌱 I’m currently learning DevSecOps and REST API principles in Flask framework.
+- 👀 I’m interested in computers in general - programming, operating systems, security, machine learning, etc.
+- 🌱 I’m currently learning ML principles.
 - 📫 You can reach me via linkedin profile.
 
 <!---
